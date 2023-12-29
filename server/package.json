@@ -4,7 +4,13 @@
   "description": "shopify assingment",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shahrukh072/shopify_Dev"
   },
   "author": "Shahrukh Khan",
   "license": "ISC",
